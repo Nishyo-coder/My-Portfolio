@@ -1,0 +1,136 @@
+/* all items in the main body */
+* {
+  background-color: white;
+  padding: 0;
+  margin: 0; 
+  align-content: center;   
+  }
+
+.navbar-brand{
+  background-color:rgb(243, 232, 219);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  }
+  .container {
+    background-color:rgb(243, 232, 219);
+    
+  }
+  .navbar-icons {
+    display: inline-block;
+    justify-content: left;
+  }
+
+  .container-md {
+    font-size: 350%;
+    max-width: 525px;
+    /* margin: auto; */
+    /* align-content: center; */
+
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+    /* background-color: #C9B4B4; */
+    display:inline-block;
+    text-align: center; 
+  }
+
+  .welcome-bar {
+    
+    border-color: gray;
+    align-content: center;
+    margin: auto;
+    background-color: #C9B4B4;
+  }
+
+  ul {
+    border-style: dotted;
+    border-left: none;
+    border-right: none;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #C9B4B4;
+    display:inline-block;
+    text-align: center;  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: inline-flex;
+    padding: 8px;
+    background-color: #C9B4B4;
+    color: black;
+  }
+  main {
+    background-color: #C9B4B4;
+  }
+
+  .column {
+    float: left;
+    padding: 10px;
+  }
+  
+  /* Left and right column */
+  .column.side {
+    width: 48%;
+    text-align: center;
+  }
+  
+  /* Middle column */
+  .column.middle {
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .card {
+    margin: 50px;
+    border-style: double;
+    border-radius: 0%;
+    border-color: #C9B4B4;
+  }
+
+  .card-body {
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(243, 232, 219);
+
+  }
+  .card-title {
+    background-color:#C9B4B4; 
+  }
+
+  .btn {
+    background-color:#C9B4B4; 
+    color:black;
+    border-radius: 5px;
+  }
+    
+
+  .Nish {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: relative;
+    
+  }
+
+  .footer {
+    background-color:rgb(243, 232, 219) ;
+  }
+  
+  @media only screen and (max-width:620px) {}
+    .menu, .main, .img {
+      width:100%;
+    }

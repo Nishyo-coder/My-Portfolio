@@ -15,10 +15,13 @@ The purpose was to use HTML and advanced CSS techniques, alternative frameworks 
 - Frameworks: Bootstrap, UIKit, JQuery, Google Gonts
 
 ## Installation
-Live Link: https://nishyo-coder.github.io/Nish-Codes/
-![Screen Shot 2021-04-25 at 3 34 11 PM](https://user-images.githubusercontent.com/79215638/116007027-d0891e00-a5db-11eb-8552-258d7fa88f9a.png)
+Live Link: https://nishyo-coder.github.io/My-Portfolio/
 
-![Screen Shot 2021-04-25 at 3 34 21 PM](https://user-images.githubusercontent.com/79215638/116007060-eeef1980-a5db-11eb-9a6b-8245e4751e6c.png)
+
+<img width="1389" alt="Screen Shot 2021-07-01 at 8 27 09 PM" src="https://user-images.githubusercontent.com/79215638/124203472-ce937d80-daaa-11eb-9980-e537be4a5fc2.png">
+
+<img width="1421" alt="Screen Shot 2021-07-01 at 8 27 21 PM" src="https://user-images.githubusercontent.com/79215638/124203483-d2bf9b00-daaa-11eb-9da3-239b6a042860.png">
+
 
 ```
 ## Credits

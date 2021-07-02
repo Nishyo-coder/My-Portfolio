@@ -1,7 +1,5 @@
 
 
-
-
 document.getElementById('button1').onclick = function() {
   location.href = "https://drive.google.com/file/d/1nybpo-0EqIdanchlf5tGfLVDyscqyLl4/view?usp=sharing";
 
